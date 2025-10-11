@@ -1,14 +1,5 @@
 # Info
-This repository is for keeping track of learning machine learning.
-
-I have publicized this as a resource, that I hope will work in two directions.
-
-**If you're new to machine learning (like me):** use this as a resource for where to start and what to
-do (or what not to do).
-
-**If you're experienced with machine learning (not like me):** use this as a resource for review or
-looking at different problem-solving methods. If you have experience, then please tell me where I should
-go next or what I can improve!
+This repository is for keeping track of "learning machine learning".
 
 # Notes
 ### Gradient Descent
@@ -33,7 +24,7 @@ to generate all the predicted values for linear regression based on your current
 - Finish 3Blue1Brown playlists for linear algebra, calculus,
 and machine learning
 - Transition from linear regression to:
-  - Multivariable linear regression
+  - Multivariable linear regression✅
   - Nonlinear regressions
   - Deep reinforcement learning
   - Text generation
